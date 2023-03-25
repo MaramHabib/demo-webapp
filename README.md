@@ -10,6 +10,6 @@
 ![App Screenshot](imgs/indexPage.jpg)
 
 ## Who we are
-### ITPAlex 2022-2023Q3 (Web development using CMS)
+ITPAlex 2022-2023Q3 (Web development using CMS)
 
 ## End
