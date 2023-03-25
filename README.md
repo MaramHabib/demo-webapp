@@ -1,4 +1,4 @@
-# this is git lab 2
+# git lab 2
 
 ## Acknowledgements
 
@@ -8,5 +8,8 @@
 ## Screenshots
 
 ![App Screenshot](imgs/indexPage.jpg)
+
+## Who we are
+### ITPAlex 2022-2023Q3 (Web development using CMS)
 
 ## End
